@@ -7,6 +7,9 @@ assignees: garylli
 
 ---
 
-## Problem Name:
-[Leetcode Link] ( )
-## Difficulty:
+#### Problem Name:
+[Leetcode Link]( )
+#### Difficulty:
+
+## Date Completed:
+#### Explanation:
