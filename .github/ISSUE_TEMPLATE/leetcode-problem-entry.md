@@ -8,8 +8,5 @@ assignees: garylli
 ---
 
 #### Problem Name:
-[Leetcode Link]( )
+[Leetcode Link]()
 #### Difficulty:
-
-## Date Completed:
-#### Explanation:
