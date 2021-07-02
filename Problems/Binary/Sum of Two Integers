@@ -1,0 +1,11 @@
+## Problem Name: Sum of Two Integers
+### Difficulty: Medium
+#### Date Completed: July 2nd, 2021.
+
+#### What I learned:
+Spent 45 minutes trying to make a bit adder before my twin told me the answer to the problem. I ended up taking a lot more time than necessary since I tried making the bit adder 
+without fully attempting to iron out the algorithm/bit manipulation in my head.
+
+For my next problem I'll need to keep a mental image of what the code is doing to the bits throughout my algorithm.
+
+There was also this really insightful [post about bit manipulation](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
