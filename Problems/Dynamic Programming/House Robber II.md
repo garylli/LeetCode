@@ -14,7 +14,10 @@ To counteract this, we must figure out how to account for only choosing one or t
 
 This can easily be solved by checking whether the first index is used. If it is used, then we add the last - first. Otherwise, if the first house is not robbed, we can always just add the last one as normal.
 
-1:07:00 okay this might not work LOL
+1:07:00 okay this might not work LOL.
 
 #### What I learned:
 Try to use DP for DP problems :)
+
+When thinking about algorithms, I keep forgetting about the **equals** case. This leads me to spending a long time on an algorithm
+that doesn't actually work because I haven't taken account what happens when two numbers are equal.
