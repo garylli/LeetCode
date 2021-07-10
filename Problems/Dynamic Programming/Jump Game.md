@@ -16,5 +16,6 @@ the next square.
 5:00 starting algorithm writing.
 
 8:13.83 Finished.
-#### What I learned:
 
+#### What I learned:
+Subproblems are problems that lead up to the solution of the problem we're solving.
