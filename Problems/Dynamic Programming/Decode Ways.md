@@ -1,7 +1,7 @@
 ## Problem Name: Decode Ways
 ### Difficulty: Medium
 #### Date Completed: July 10th, 2021
-#### Time Taken: 
+#### Time Taken: 54:34.89
 #### [Problem Link](https://leetcode.com/problems/decode-ways/)
 
 #### Thought Process:
