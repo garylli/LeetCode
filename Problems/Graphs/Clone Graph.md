@@ -1,7 +1,7 @@
 ## Problem Name: Clone Graph
 ### Difficulty: Medium
 #### Date Completed: July 11th, 2021
-#### Time Taken: 
+#### Time Taken: 49:34.33
 #### [Problem Link](https://leetcode.com/problems/clone-graph/)
 
 #### Thought Process:
