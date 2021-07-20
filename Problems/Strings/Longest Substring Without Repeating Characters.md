@@ -1,7 +1,7 @@
-## Problem Name: Merge K Sorted Lists
+## Problem Name: Longest Substring Without Repeating Characters
 ### Difficulty: Medium
 #### Date Completed: July 19th, 2021
-#### Time Taken: 
+#### Time Taken: 19:13
 #### [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 #### Thought Process:
