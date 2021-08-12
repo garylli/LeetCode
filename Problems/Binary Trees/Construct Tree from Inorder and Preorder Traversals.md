@@ -1,8 +1,8 @@
 ## Problem Name: Construct Tree from Inorder and Preorder Traversals
 ### Difficulty: Medium
-#### Date Completed: 
-#### Time Taken:  
-#### [Problem Link](https://leetcode.com/problems/subtree-of-another-tree/)
+#### Date Completed: August 12th, 2021
+#### Time Taken:  1:19:00
+#### [Problem Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 
 #### Thought Process:
 1:00:00 I realzed fairly quickly that the inorder and preorder traversals collide at points where the preorder needs to change directions, but got stuck on implementing
@@ -20,4 +20,9 @@ Preorder traversals of a binary tree are VLR, meaning that any nodes that are to
 I keep thinking I know how to do it, but I'm having a hard time visualizing the coding algorithm like I usually would. For the next problem I'm going to immediately try to think of it from the system's point of view and see what questions need to be answered in order for it to find the next appropriate action. Hopefully this will make solving the next problem much faster.
 
 
+1:19:00
+So my initial idea was correct, and it was much easier on paper. However, the recursion still messed with me and I think I just need to continue to try thinking about it in terms of a machine's point of view.
+
+Runtime was 5% - 30%
+Space complexity was 99%
 #### What I learned: 
